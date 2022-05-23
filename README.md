@@ -2,7 +2,7 @@
 
 #Typescript with redis to publish items to REDIS STREAM
 
-yarn run install
+yarn run install /n
 Run "docker-compose up to start redis on docker.
 Yarn run dev
 
